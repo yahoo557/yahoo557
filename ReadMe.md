@@ -15,7 +15,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-23FF9900.svg?style=for-the-badge&logo=Ubuntu&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-#E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
