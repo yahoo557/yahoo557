@@ -1,3 +1,4 @@
+node.js 백엔드 개발자 이승백입니다.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bxxklee) 
